@@ -1,2 +1,4 @@
 # Bubble-sort-visualizer
-This is a python script that uses pygame to display bubble sort
+This master repo that contains sorting algorithms visualized using python
+
+more algorithms may be added
