@@ -3,9 +3,9 @@ import pygame
 import sys
 import time
 
-WIDTH = 300
-HEIGHT = 200
-NUM = 150
+WIDTH = 500
+HEIGHT = 500
+NUM = 50
 
 WHITE = (225,225,225)
 BLACK = (0,0,0)
