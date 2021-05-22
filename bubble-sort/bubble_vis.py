@@ -3,7 +3,7 @@ import pygame
 import sys
 import time
 
-WIDTH = 500
+WIDTH = 700
 HEIGHT = 500
 NUM = 50
 
